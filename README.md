@@ -2,7 +2,7 @@
 
 This game was made using the tutorial provided by Colt Steele's Web Developer Bootcamp on Udemy.
 
-The idea of the game is to pick the colour that matches the RGB provided in the header. In the hard mode of the game, 6 colours are provided and you have to pick the one that matches the colour given. If you choose the incorrect colour tile, the tile disappears and message saying 'Try again' appears. This continues until you pick the correct tile, in which case all tiles reappear with in the colour of the correct RGB, along with a matching header bar colour. The easy mode of the game is the act same premise, but with only 3 tiles to choose from.
+The idea of the game is to pick the colour that matches the RGB provided in the header. In the hard mode of the game, 6 colours are provided and you have to pick the one that matches the colour given. If you choose the incorrect colour tile, the tile disappears and the message saying 'Try again' appears. This continues until you pick the correct tile, in which case all tiles reappear with in the colour of the correct RGB, along with a matching header bar colour. The easy mode of the game is the same premise, but with only 3 tiles to choose from.
 
 Technologies used:
 - HTML
